@@ -19,7 +19,7 @@ Projede cmd ve bash üzerinde çalışan komutların multithreading özellikleri
 
 1. Projeyi GitHub'dan klonlayın veya indirin.
 2. Gerekli paketleri ve bağımlılıkları; NuGet paket yöneticisi veya Visual Studio içerisinde komut istemi satırıyla yükleyin.
-3. Projeyi çalıştırmak `Console` katmanını başlangıç projesi olarak belirleyin.
+3. Projeyi çalıştırmak `MultithreadingShell.Console` katmanını başlangıç projesi olarak belirleyin.
 
 ## Kullanım
 
@@ -38,6 +38,7 @@ Projeyi kullanmak için aşağıdaki adımları izleyin:
 - Logging işlemleri için ayrılmış log dosyaları (Bash/CMD) mevcuttur.
 - Ağ ve alt yapı kısıtlamalarından etkilenir.
 - İşlemci ailesine göre değişkenlik gösterebilir. (Varsayılan işlemci ailesi: Intel I7 10. Nesil)
+- `MultithreadingShell.Bussiness` katmanındaki bazı sınıf, arayüz yapıları güvenlik ve gizlilik sebebiyle kaldırılmıştır.
 
 ## Gelecek Planları
 
