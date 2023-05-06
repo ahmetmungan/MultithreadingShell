@@ -1,0 +1,17 @@
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.Bussiness.deps.json
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.Bussiness.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.Bussiness.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.DataAccess.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.Entities.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.DataAccess.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\bin\Debug\net6.0\MultithreadingShell.Entities.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.AssemblyInfo.cs
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.csproj.CopyComplete
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\refint\MultithreadingShell.Bussiness.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\MultithreadingShell.Bussiness.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Bussiness\obj\Debug\net6.0\ref\MultithreadingShell.Bussiness.dll

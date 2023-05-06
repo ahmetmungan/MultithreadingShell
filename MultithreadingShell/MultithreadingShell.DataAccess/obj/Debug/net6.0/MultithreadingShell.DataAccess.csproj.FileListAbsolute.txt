@@ -1,0 +1,15 @@
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\bin\Debug\net6.0\MultithreadingShell.DataAccess.deps.json
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\bin\Debug\net6.0\MultithreadingShell.DataAccess.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\bin\Debug\net6.0\MultithreadingShell.DataAccess.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\bin\Debug\net6.0\MultithreadingShell.Entities.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\bin\Debug\net6.0\MultithreadingShell.Entities.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.AssemblyInfo.cs
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.csproj.CopyComplete
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\refint\MultithreadingShell.DataAccess.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\MultithreadingShell.DataAccess.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.DataAccess\obj\Debug\net6.0\ref\MultithreadingShell.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\bin\Debug\net6.0\MultithreadingShell.Entities.deps.json
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\bin\Debug\net6.0\MultithreadingShell.Entities.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\bin\Debug\net6.0\MultithreadingShell.Entities.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.AssemblyInfoInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.AssemblyInfo.cs
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\refint\MultithreadingShell.Entities.dll
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\MultithreadingShell.Entities.pdb
+C:\Users\Ahmet Mungan\Desktop\root\MultithreadingShell\MultithreadingShell\MultithreadingShell.Entities\obj\Debug\net6.0\ref\MultithreadingShell.Entities.dll

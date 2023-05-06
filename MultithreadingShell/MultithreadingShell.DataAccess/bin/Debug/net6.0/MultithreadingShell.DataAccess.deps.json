@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultithreadingShell.DataAccess/1.0.0": {
+        "dependencies": {
+          "MultithreadingShell.Entities": "1.0.0"
+        },
+        "runtime": {
+          "MultithreadingShell.DataAccess.dll": {}
+        }
+      },
+      "MultithreadingShell.Entities/1.0.0": {
+        "runtime": {
+          "MultithreadingShell.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultithreadingShell.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MultithreadingShell.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
