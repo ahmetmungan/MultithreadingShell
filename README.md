@@ -1,6 +1,8 @@
 # MultithreadingShell Projesi
 
-Bu proje, cmd ve bash üzerinde çalışan komutların multithreading (çok iş parçacıklı) olarak çalışmasını sağlamaktadır. Özellikle zaman kısıtlı işlemlerde zamandan tasarruf sağlamak, işlem süreçlerinin etkinliğini artırmak, yerel ve güvenli logging sisteminde ekleme/güncelleme/silme yapmak,  amaçlanmıştır.
+Bu proje, cmd ve bash üzerinde çalışan komutların multithreading (çok iş parçacıklı) olarak çalışmasını sağlamaktadır. Özellikle zaman kısıtlı işlemlerde zamandan tasarruf sağlamak, işlem süreçlerinin etkinliğini artırmak, yerel ve güvenli logging sisteminde ekleme/güncelleme/silme yapmak amaçlanmıştır.
+
+Proje Sistem Programlama dersi kapsamında dönem boyunca yapılmıştır. Sunum kısmı `Presentation` klasöründedir.
 
 ## İçindekiler
 
