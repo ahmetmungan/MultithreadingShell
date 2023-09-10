@@ -29,11 +29,6 @@ class Program
             result += _commandService.MultihreadingExecuteCommands(commands, ref currentDirectory);
             stopWatch.Stop();
             var runTime = (double)stopWatch.ElapsedMilliseconds / 1000;
-            //result = Regex.Replace(result, @"\n", "");
-            //Console.WriteLine(result.GetType());
-            //Console.WriteLine(result);
-            //Console.Write("Çalışma Süresi: ");
-            //Console.WriteLine(runTime.ToString());
             Console.WriteLine($"{result} \n Çalışma süresi: {runTime} saniye \n ");
 
             if (!result.Contains("Hata!") || result == "")

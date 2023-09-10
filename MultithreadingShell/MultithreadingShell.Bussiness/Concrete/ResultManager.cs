@@ -18,16 +18,6 @@ namespace MultithreadingShell.Bussiness.Concrete
             _resultDal = resultDal;
         }
 
-        //public void AddResult(string result, string runningTime)
-        //{
-        //    _resultDal.AddResult(new Result
-        //    {
-        //        Id = commandManager.SetId(),
-        //        ResultContent = result,
-        //        RunningTime = runningTime.ToString()
-        //    }, commandManager.SetLoggerPath());
-        //}
-
         public void AddLogger(string result, string runningTime, ICommandService commandService)
         {
             _commandService = commandService;
